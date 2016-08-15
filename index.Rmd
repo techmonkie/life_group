@@ -1,8 +1,13 @@
 ---
 title: "Life Group"
-toc: true
+output:
+    html_document:
+        toc: true
+        toc_float: 
+            collapsed: false
+            smooth_scrool: false
 ---
-# Welcome to Life Group of Greer GitHub
+
 
 This project was created to help create a hub of information for our life group.
 
