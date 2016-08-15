@@ -1,0 +1,75 @@
+---
+title: "Zeal without Knowledge"
+author: "Peter Hubbard"
+---
+<style>
+table, tr {
+    border: 1px solid darkgrey; 
+    background-color: #D8EAFA; 
+    width: 100%;
+    }
+answer {
+    font-family: "arial"; 
+    font-size: 105%; 
+    color: darkgrey; 
+    text-decoration: underline;
+    }
+
+outer {
+    word-wrap: break-word;
+    width: 100px;
+}
+
+inner {
+    word-wrap: break-word;
+    width: 100px;
+    }
+</style>
+
+<outer>
+
+# Zeal without Knowledge
+Romans 9:30-10:4
+
+<inner>
+
+**Sovereignty vs. Responsibility**
+
+*How does the bible describle divine sovereignty and human responsibility?*
+
+## Compatibilism
+
+1. God is absolutely <answer>sovereign</answer>, but His sovereignty never functions in such a way that <answer>human responsibility</answer> is minimized, curtailed, or mitigated. 
+
+2. Human beings are <answer>morally responsible</answer> creatures – they significantly choose, rebel, obey, <answer>make decisions</answer>, and so forth, and they are rightly held accountable for such actions; but this characteristic never functions so as to make God absolutely contingent.
+
+<table><caption>Examples</caption><tr><td>Luke 22:22</td><td>Psalm 127:1</td></tr><tr><td>Acts 2:23</td><td>Isaiah 10</td></tr></table>
+
+## Romans 9
+
+*Why do the Jews reject their Messiah?*
+
+* God's <answer>Sovereign Purpose</answer>
+* Man's <answer>Subborn Ignorance</answer>
+
+<table><caption>Romans 9:30-33</caption><tr><td>Gentiles</td><td>Did not persue righteousness</td><td>obtained it</td></tr><tr><td>Israelites</td><td>Did persue a law that would lead to righteousness</td><td>missed it</td></tr></table>
+Why? They did not pursue it by <answer>faith</answer>.
+
+*"As it is written, ‘Behold, I am laying in Zion a stone of stumbling, and a rock of offense; and whoever believes in Him will not be put to shame."* - Romans 9:33
+
+## Paul's Prayer and Diagnosis
+
+<table><tr><td>good intention > wrong information > bad direction > missed destination</td></tr><tr><td>"want to be right" > "ignorant of" > "seeking to establish" > "they did not submit</td></tr></table>
+
+*"Brothers, my heart's desire and prayer to God for them is that they may be saved.”* - Romans 10:1
+
+**Why is this so important today?**
+
+*"For Christ is the end if the law for righteousness to everyone who believes."* - Romans 10:4
+
+</inner>
+
+</outer>
+
+
+
