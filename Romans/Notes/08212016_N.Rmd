@@ -1,8 +1,10 @@
 ---
 title: "The Near Word"
 author: "Peter Hubbard"
-date: "8/21/2016"
-book: Hillbilly Elegy - J. D. Vance
+output: pdf_document
+font-size: 11pt
+geometry: margin=.5in
+book: "Hillbilly Elegy - J. D. Vance"
 ---
 
 <style>
@@ -29,7 +31,9 @@ inner {
     }
 </style>
 
-### Romans 10:1-21
+#### Romans 10:1-21
+
+Date: 08/21/2016
 
 ## The word is near. (5-13)
 
@@ -78,9 +82,9 @@ What do we do?
 
 Maybe Israel didn't...
 
-- <answer>Hear</answer>?(18)
+- <answer>Hear</answer>(18)
 
-- <answer>Understand</answer>?(19-21)
+- <answer>Understand</answer>(19-21)
     - Deuteronomy 32:21
     - Isaiah 65:1
     - Isaiah 65:2
