@@ -9,36 +9,52 @@ output:
     slides.backgroud-size: contain
     incremental: true
     center: false
-    theme: night
-    css: Assets/style.css
-      
+    css: assets/pres.css
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+
+## Romans 11:33-36
+<div id="col_left_30">
+
+```
+"Oh, the depth of the riches and widsom and knowledge of God! 
+How unsearchable are his judgements and how inscrutable his ways!
+
+'For who has known the mind of the Lord, 
+or who has been his counselor?'
+
+'Or who has given a gift to him that he might be repaid?'
+
+For from him and through him and to him are all things. 
+To him be glory for ever. Amen."
 ```
 
-## R Markdown
+</div>
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+<div id="col_right_70">
+![alt text](assets/images/Ignatius.jpg)
+</div>
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+## Depths
 
-## Slide with Bullets
+<div id="col_left">
+
+- Riches
+- Wisdom
+- Knowledge
+
+</div>
 
 <div id="col_right">
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Given a gift to him
+- Knows his mind
+- Been his counselor
 
 </div>
 
 ## Slide with R Output
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
 
 ## Slide with Plot
 
