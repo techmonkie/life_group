@@ -17,7 +17,7 @@
 }
 
 #col_right {
-  left:31.25%;
+  left:15%;
   top: 75px;
   float: right;
   text-align: right;
@@ -26,7 +26,7 @@
 }
 
 #col_right_70 {
-  left:31.25%;
+  left:15%;
   top: 75px;
   float: right;
   text-align: right;
@@ -34,3 +34,35 @@
   width:70%;
 }
 
+#footer_65 {
+    color: black; background: #E8E8E8;
+    position: fixed; top: 100%;
+    text-align:center; width:65%;
+}
+
+#footer {
+    color: black; background: #E8E8E8;
+    position: fixed; top: 100%;
+    text-align:center; width:100%;
+}
+
+#midcenter {
+    position: fixed;
+    top: 50%;
+    left: 15%;
+}
+
+#pic-50{
+  height:50%;
+  width:50%;
+}
+
+#pic-25{
+  height:25%;
+  width:25%;
+}
+
+#shrink{
+  max-width: 300px;
+  height: auto;
+}

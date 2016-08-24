@@ -9,13 +9,14 @@ output:
     slides.backgroud-size: contain
     incremental: true
     center: false
+    theme: serif
     css: assets/pres.css
 ---
-
+##
 
 ## Romans 11:33-36
-<div id="col_left_30">
 
+<br>
 ```
 "Oh, the depth of the riches and widsom and knowledge of God! 
 How unsearchable are his judgements and how inscrutable his ways!
@@ -29,13 +30,11 @@ For from him and through him and to him are all things.
 To him be glory for ever. Amen."
 ```
 
-</div>
+## 
 
-<div id="col_right_70">
-![alt text](assets/images/Ignatius.jpg)
-</div>
+###What do we learn about God?
 
-## Depths
+#### Depths
 
 <div id="col_left">
 
@@ -53,12 +52,22 @@ To him be glory for ever. Amen."
 
 </div>
 
-## Slide with R Output
+<div id="midcenter">
+<div id="footer_65">
+![alt text](assets/images/ignatius.jpg)
+<small>*Trumph of St. Ignatius of Layota*<br> Andrea Ponzo **(1642)**</small>
+</div>
+</div>
+
+## 
+###How does this ultimately point to Jesus?
+
+<div id="shrink">![alt text](assets/images/resurrection_rubens.jpg)</div>
+<small>*Resurrection of Jesus* <br> Peter Paul Rubens **(1611)**</small>
+
+##
+### What did you find surprising or unexpected?
 
 
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
+##
+### What is God Saying to You?

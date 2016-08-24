@@ -1,0 +1,35 @@
+---
+title: "Prayer_Requests_08232016.Rmd"
+output: html_document
+---
+
+# Prayer Requests
+
+### Janet 
+- Brother and Sister-in-Law travelling to Ohio 
+- Babysitting 
+- Car Search
+
+### Jenny 
+- Life 
+- Missing Life Group
+
+### Amanada 
+- Family Drama
+
+### Michael 
+- Mom
+    - Doctor Issues
+    - Nursing Home/Assisted Living
+    
+### Sean and Becka
+- Kodiak
+    - ENT - Sleep Study - Nathan Alexander
+    - Speech Pathologist - Eating
+    - 
+    
+### Timothy 
+- New Job Balancing
+- Next step for Long Term
+
+### 
