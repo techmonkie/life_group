@@ -1,9 +1,35 @@
 ---
 title: "A Christian View of Israel"
 author: "Peter Hubbard"
-date: 08/28/2016
-book: "The Boys in the Boat"
+date: "08/28/2016"
+output: pdf_document
+book: The Boys in the Boat
 ---
+
+<style>
+table, tr {
+    border: 1px solid darkgrey; 
+    background-color: #D8EAFA; 
+    width: 100%;
+    }
+answer {
+    font-family: "arial"; 
+    font-size: 105%; 
+    color: #339966; 
+    text-decoration: underline;
+    }
+
+outer {
+    word-wrap: break-word;
+    width: 100px;
+}
+
+inner {
+    word-wrap: break-word;
+    width: 100px;
+    }
+</style>
+
 #### *Romans 11:1-36*
 
 Anti-Semitism:
@@ -31,7 +57,7 @@ God's Word to Israel has not failed.
 2. Gentiles should not be <answer>Inflated</answer>. (11-32)
   - Illustration #1 - <answer>Dough (Numbers 21)</answer> (16a)
   - Illustration #2 - <answer>Roots (Olive tree)</answer> (16b-24)
-    - **Applicaiton (18-24)**
+  - **Applicaiton (18-24)**
       - Stop <answer>Boasting</answer> - *"do not be arrogant"* (18)
       - Stop <answer>Being Haughty</answer> - *"do not becomt proud"* (20)
       - Start <answer>Fearing</answer> - *"but fear"* (20)
@@ -46,8 +72,8 @@ God's Word to Israel has not failed.
           - God's promises are irrevocable. (28-29)
           - God's decisions are impartial. (30-32)
 3. God cannot be <answer>Contained</answer>. (33-36)
-  - His ways are <answer>Untraceable</answer>. (33)
-  - His ways are <answer>Uncoerced</answer>. (34-35)
-  - His ways are <answer>Unaided</answer>. (36)
+    - His ways are <answer>Untraceable</answer>. (33)
+    - His ways are <answer>Uncoerced</answer>. (34-35)
+    - His ways are <answer>Unaided</answer>. (36)
 
 
