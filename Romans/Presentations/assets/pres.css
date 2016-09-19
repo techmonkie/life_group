@@ -16,6 +16,14 @@
   z-index:-10;
 }
 
+#col_left_70 {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:70%;
+  z-index:-10;
+}
+
 #col_right {
   left:15%;
   top: 75px;

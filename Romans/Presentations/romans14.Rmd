@@ -1,15 +1,29 @@
 ---
 title: "Romans 14"
-output: revealjs::revealjs_presentation
+output: 
+  revealjs::revealjs_presentation:
+    theme: default
+    incremental: true
+    slide_level: 1
+    css: assets/pres.css
+    width: 1920
+    height: 1080
+transitionSpeed : slow
+
 ---
-#Romans 14
 
-## Paul
 
-## Apostle
+# What is God Saying?
 
-# Two Ideas
+### Two Ideas
 
-## Judgement
+- Judgement
+- Stumbling Blocks
 
-## Stumbling Blocks
+# What is God Saying?
+
+### Players
+<div id="col_left_70">
+- Who are the characters interacting in Chapter 14?
+- Why is this important?
+</div>
