@@ -1,0 +1,15 @@
+---
+title: "Romans 14"
+output: revealjs::revealjs_presentation
+---
+#Romans 14
+
+## Paul
+
+## Apostle
+
+# Two Ideas
+
+## Judgement
+
+## Stumbling Blocks
